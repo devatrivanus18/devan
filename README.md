@@ -71,7 +71,7 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/devatrivanus"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/devazamily">
+  <a href="https://twitter.com/de_triv">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
 </a>
 
