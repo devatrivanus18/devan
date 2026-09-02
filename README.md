@@ -16,9 +16,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Quick Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=detriv&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15" />
+  <a href="https://github.com/detriv?tab=followers"><img src="https://img.shields.io/github/followers/detriv?label=Followers&style=for-the-badge&color=blue" /></a>
+  <a href="https://github.com/detriv?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-38-informational?style=for-the-badge&color=success" /></a>
+  <a href="https://github.com/detriv?tab=stars"><img src="https://img.shields.io/badge/Stars%20Earned-19-yellow?style=for-the-badge" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/detriv/android-dev-hub"><img src="https://img.shields.io/github/stars/detriv/android-dev-hub?style=flat-square&label=android-dev-hub" /></a>
+  <a href="https://github.com/detriv/BlazorReporting"><img src="https://img.shields.io/github/stars/detriv/BlazorReporting?style=flat-square&label=BlazorReporting" /></a>
+  <a href="https://github.com/detriv/TokoBuku-CRUD-SQLITE-XAMARIN"><img src="https://img.shields.io/github/stars/detriv/TokoBuku-CRUD-SQLITE-XAMARIN?style=flat-square&label=TokoBuku-CRUD" /></a>
 </p>
 
 ---
@@ -36,21 +43,6 @@
 ## 🔥 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,js,ts,python,postgres,sqlite,firebase,git,docker" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=detriv&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detriv&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔄 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=detriv&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
